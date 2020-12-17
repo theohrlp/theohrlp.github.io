@@ -1,2 +1,1 @@
-# theohrlp.github.io
-My awesome website 
+### My awesome website, and it's code.  
